@@ -35,7 +35,3 @@ x64/*
 *.exe
 *.out
 *.app
-
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
